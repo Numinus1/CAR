@@ -1,0 +1,13 @@
+16/4/2019
+
+ - remove 'no rows' on incorrect login
+ - replaced 'displayfile.php' with 'download.php' -> removed the file viewer and changed to a prompt to download the relevant file
+ 
+ 
+ 
+ Files Changed:
+ login.php
+ dispmine.php
+ dispour.php
+ dispreq.php
+ viewcar.php
